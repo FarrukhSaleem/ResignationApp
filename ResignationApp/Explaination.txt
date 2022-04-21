@@ -1,0 +1,3 @@
+﻿Publisher Class creates an Event based on some delegate Handler and also invoke this event at some place
+when this event invoked then all the methods of all thoes clases will invoke who subscribe this event with their
+methods
